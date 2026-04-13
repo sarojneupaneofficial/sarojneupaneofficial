@@ -15,8 +15,14 @@ Computer Engineering Technician | Data Engineer | Skilled in Python, SQL, C/C++,
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
 
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sarojneupaneofficial&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
 
+![](https://github-readme-stats.shion.dev/api?username=sarojneupaneofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=sarojneupaneofficial&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sarojneupaneofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
