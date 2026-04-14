@@ -17,6 +17,9 @@ Computer Engineering Technician | Data Engineer | Skilled in Python, SQL, C/C++,
 
 
 # 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github.com/sarojneupaneofficial/sarojneupaneofficial/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sarojneupaneofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
