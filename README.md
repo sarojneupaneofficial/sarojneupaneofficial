@@ -1,5 +1,5 @@
 # About Me:
-Computer Engineering Technician | Data Engineer | Skilled in Python, SQL, C/C++, c#, HTML, CSS, Git, Linux, AWS, Azure, Databases, Data Analysis, Cloud Technologies, and Problem Solving. Passionate about building scalable applications, automation systems, and data-driven solutions.
+Computer Engineering Technician | Data Engineer | Skilled in Python, SQL, C/C++, c#, HTML, CSS, Git, Linux, AWS, Azure, Databases, Data Analysis, Cloud Service Technologies, and Problem Solving. Passionate about building scalable applications, automation systems, and data-driven solutions.
 
 
 ## 🌐 Socials:
